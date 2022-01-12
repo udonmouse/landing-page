@@ -58,3 +58,18 @@ button {
   border: none;
 }
 
+h2 {
+  text-align: center;
+}
+
+.main-top {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 300px 100px 300px;
+  gap: 8px;
+}
+
+.info {
+  max-width: 150px;
+}
